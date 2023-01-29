@@ -1,5 +1,8 @@
+import colorama
+from colorama import Fore
 import time
 import random
+print(Fore.GREEN + "Do it as your love")
 name1 = input("Type your name.\n")
 name2 = input("Type your partner name.\n")
 
